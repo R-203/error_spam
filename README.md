@@ -14,3 +14,5 @@
 # git clone https://github.com/dukun-hack/error_spam
 # cd error_spam
 # python2 zpam.py
+
+# kodingan gw noob,biasalah masih belajar
