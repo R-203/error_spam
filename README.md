@@ -12,4 +12,4 @@
 * cd error_spam
 * python2 zpam.py
 
-**kodingan gw noob,biasalah masih belajar**:wink:
+*kodingan gw noob,biasalah masih belajar*:wink:
