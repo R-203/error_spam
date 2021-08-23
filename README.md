@@ -1,4 +1,4 @@
-###### error_spam
+###### Petunjuk
   Gunakan dengan awalan 08xxxxxxxx
 ###### install module terlebih dahulu
 * pkg update
