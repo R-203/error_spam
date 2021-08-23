@@ -1,6 +1,6 @@
-# error_spam
+###### error_spam
   Gunakan dengan awalan 08xxxxxxxx
-# install module terlebih dahulu
+###### install module terlebih dahulu
 * pkg update
 * pkg upgrade
 * pkg install git
