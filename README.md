@@ -9,6 +9,6 @@
 * pip2 install requests
 * git clone https://github.com/R-203/error_spam
 * cd error_spam
-* python2 play.py
+* python2 zpam.py
 
 *kodingan gw noob,biasalah masih belajar*:wink:
